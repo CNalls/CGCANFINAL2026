@@ -397,12 +397,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 1.2079623
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910101
     Name: Pickup_01
     Tag: Pickup
@@ -439,12 +448,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 1.0914296
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910102
     Name: Pickup_02
     Tag: Pickup
@@ -481,12 +499,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 0.9635899
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910103
     Name: Pickup_03
     Tag: Pickup
@@ -523,12 +550,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 1.1448505
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910104
     Name: Pickup_04
     Tag: Pickup
@@ -565,12 +601,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 0.9312247
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910105
     Name: Pickup_05
     Tag: Pickup
@@ -607,12 +652,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 1.0592377
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 910106
     Name: Grass
     Tag: ""
@@ -689,12 +743,21 @@ Entities:
       color: [1, 0.87, 0.22, 1]
       MaterialAsset:
         uuid: 17490362529814420531
+      UniformOverrides:
+        pickupFlash:
+          type: float
+          value: 1.1880584
     Canis::Model:
       color: [1, 0.87, 0.22, 1]
       ModelAsset:
         uuid: 17154083321347000101
     RollABall::PickupSpinner:
       spinSpeedDegrees: 120
+      flashMinFrequency: 1.2
+      flashMaxFrequency: 2.8
+      flashMinIntensity: 0.75
+      flashMaxIntensity: 1.35
+      flashPulseAmplitude: 0.45
   - Entity: 7448487586354055887
     Name: BoostPad
     Tag: ""

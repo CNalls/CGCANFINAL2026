@@ -1,0 +1,9 @@
+albedo:
+  uuid: 7857415638058248177
+  path: assets/textures/block_game/grass.png
+color: [0.9852941, 0.9852941, 0.9852941, 1]
+backFaceCulling: true
+specularValue: 0.05
+shader:
+  uuid: 3542569769386405694
+  path: assets/shaders/grass.fs

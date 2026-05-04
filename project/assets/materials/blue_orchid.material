@@ -1,0 +1,9 @@
+shader:
+  uuid: 18088780031701087885
+  path: assets/shaders/flower.fs
+albedo:
+  uuid: 11765529812768333279
+  path: assets/textures/block_game/blue_orchid.png
+color: [0.9852941, 0.9852941, 0.9852941, 1]
+backFaceCulling: true
+specularValue: 0.05

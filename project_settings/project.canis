@@ -13,5 +13,5 @@ iconUUID: 8708093225096235882
 launchScene: 17046375449994097932
 editorWindowWidth: 2560
 editorWindowHeight: 1514
-targetGameWidth: 512
-targetGameHeight: 512
+targetGameWidth: 2560
+targetGameHeight: 1514
